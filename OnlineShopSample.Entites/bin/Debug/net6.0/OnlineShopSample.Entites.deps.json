@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OnlineShopSample.Entites/1.0.0": {
+        "runtime": {
+          "OnlineShopSample.Entites.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineShopSample.Entites/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

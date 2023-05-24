@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\OnlineShopSample\OnlineShopSample\OnlineShopSample.Entites\bin\Debug\net6.0\OnlineShopSample.Entites.deps.json
+C:\Users\user\Desktop\OnlineShopSample\OnlineShopSample\OnlineShopSample.Entites\bin\Debug\net6.0\OnlineShopSample.Entites.dll
+C:\Users\user\Desktop\OnlineShopSample\OnlineShopSample\OnlineShopSample.Entites\bin\Debug\net6.0\OnlineShopSample.Entites.pdb
+C:\Users\user\Desktop\OnlineShopSample\OnlineShopSample\OnlineShopSample.Entites\obj\Debug\net6.0\OnlineShopSample.Entites.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\OnlineShopSample\OnlineShopSample\OnlineShopSample.Entites\obj\Debug\net6.0\OnlineShopSample.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\OnlineShopSample\OnlineShopSample\OnlineShopSample.Entites\obj\Debug\net6.0\OnlineShopSample.Entites.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\OnlineShopSample\OnlineShopSample\OnlineShopSample.Entites\obj\Debug\net6.0\OnlineShopSample.Entites.AssemblyInfo.cs
+C:\Users\user\Desktop\OnlineShopSample\OnlineShopSample\OnlineShopSample.Entites\obj\Debug\net6.0\OnlineShopSample.Entites.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OnlineShopSample\OnlineShopSample\OnlineShopSample.Entites\obj\Debug\net6.0\OnlineShopSample.Entites.dll
+C:\Users\user\Desktop\OnlineShopSample\OnlineShopSample\OnlineShopSample.Entites\obj\Debug\net6.0\refint\OnlineShopSample.Entites.dll
+C:\Users\user\Desktop\OnlineShopSample\OnlineShopSample\OnlineShopSample.Entites\obj\Debug\net6.0\OnlineShopSample.Entites.pdb
+C:\Users\user\Desktop\OnlineShopSample\OnlineShopSample\OnlineShopSample.Entites\obj\Debug\net6.0\ref\OnlineShopSample.Entites.dll

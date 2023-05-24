@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineShopSample.Persistence.EF\OnlineShopSample.Persistence.EF.csproj" />
+    <ProjectReference Include="..\OnlineShopSample.Services\OnlineShopSample.Services.csproj" />
+  </ItemGroup>
+
+</Project>
